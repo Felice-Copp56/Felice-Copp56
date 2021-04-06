@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cloud Computing ☁️
 - 📝 Languages: Java,C++, Python
 - 📚 A little bit of services: Azure, AWS
-- Here's where ypu can find me
+- Here's where you can find me
 - 📨 Telegram @Felice-Copp56
 
 

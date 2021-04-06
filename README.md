@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h1>Felice-Copp56</h1>
-**Felice-Copp56/Felice-Copp56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 - 📆 Age: 23yrs
 - 🗺 Location: Italy
 - 🔭 I’m currently studying at Università degli studi di Salerno

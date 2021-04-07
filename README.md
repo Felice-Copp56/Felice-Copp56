@@ -8,7 +8,7 @@
 - 🗺 Location: Italy
 - 🔭 I’m currently studying at Università degli studi di Salerno
 - 🌱 I’m currently learning Cloud Computing ☁️
-- 📝 Languages: Java,C++, Python
+- 📝 Languages: Java,C++,C, Python
 - 📚 A little bit of services: Azure, AWS
 - Here's where you can find me
 - 📨 Telegram @FeliceCopp56

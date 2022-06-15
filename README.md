@@ -10,9 +10,9 @@
 - 📝 Languages: Java,C++,C, Python
 - 📚 A little bit of services: Azure, AWS
 - My interests and passion:
-    * F1 [🏎]
+    * F1 🏎
     * MotoGP 🏍
-    * Gym and healthy [🥅](#-other)
+    * Gym 🏋️‍♀️
 <p align='center'>
    I use:<br/><br/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;

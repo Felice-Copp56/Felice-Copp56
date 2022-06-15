@@ -23,7 +23,7 @@
 <h1></h1>
 
 <details open>
-  <summary>📃 Resume of my carrer/summary>
+  <summary>📃 Resume of my carrer </summary>
 
 ## Education and training
 
@@ -44,6 +44,6 @@
 
 - Here's where you can find me and contact me
 - 📨 Telegram @FeliceCopp56
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> coppolaf107@gmail.com
+- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <a href='mailto:copplaf107@gmail.com'>coppolaf107@gmail.com</a>
 
 

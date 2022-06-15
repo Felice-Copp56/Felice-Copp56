@@ -11,8 +11,10 @@
 - 📝 Languages: Java,C++,C, Python
 - 📚 A little bit of services: Azure, AWS
 - My interests and passion:
-    * F1 #car
+    * F1 [🚗🚗](#car)
+    * Gym and healthy [🥅](#-other)
 - Here's where you can find me
 - 📨 Telegram @FeliceCopp56
+- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 

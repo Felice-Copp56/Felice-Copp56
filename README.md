@@ -10,7 +10,8 @@
 - 📝 Languages: Java,C++,C, Python
 - 📚 A little bit of services: Azure, AWS
 - My interests and passion:
-    * F1 [🚗🚗](#car)
+    * F1 [🏎]
+    * MotoGP 🏍
     * Gym and healthy [🥅](#-other)
 <p align='center'>
    I use:<br/><br/>
@@ -38,7 +39,7 @@
   📍 **University of Salerno** - Salerno, Italy
  - 📖 **General English Intensive Course (Cambridge)**\
   📆 2017 \
-  📍 **Bels Gozo ** - Malta
+  📍 **Bels Gozo** - Malta
 
 </details>
 

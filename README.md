@@ -15,6 +15,6 @@
     * Gym and healthy [🥅](#-other)
 - Here's where you can find me
 - 📨 Telegram @FeliceCopp56
-- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+- [!https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white] coppolaf107@gmail.com
 
 

@@ -3,9 +3,9 @@
 <h1>Felice-Copp56</h1>
 
 
-- 📆 Age: 24yrs
+- 📆 Age: 26yrs
 - 🗺 Location: Italy
-- 🔭 I’m currently studying at Università degli studi di Salerno
+- 🔭 I’m currently working at Storm Reply FS
 - 🌱 I’m currently learning Cloud Computing ☁️
 - 📝 Languages: Java,C++,C, Python
 - 📚 A little bit of services: Azure, AWS
